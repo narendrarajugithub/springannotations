@@ -1,0 +1,3 @@
+validate=function(){
+	alert("hi")
+}
